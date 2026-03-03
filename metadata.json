@@ -1,0 +1,5 @@
+{
+  "name": "Community App Monitor",
+  "description": "A dashboard for tracking the progress and status of community-built applications.",
+  "requestFramePermissions": []
+}
